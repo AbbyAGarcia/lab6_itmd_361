@@ -1,5 +1,5 @@
 body{
-  background-image: url("../images/black.png");
+  background-image: url("C:\Users\abbya\OneDrive\Desktop\itmd 361\lab6_itmd_361\images\black.jpg");
 }
 #page-wrap {
   width: 960px;
@@ -39,7 +39,7 @@ body{
   clear: both;
 }
 #content-wrap {
-  background-image: url("../images/repeating.png");
+  background-image: url("C:\Users\abbya\OneDrive\Desktop\itmd 361\lab6_itmd_361\images\main.png");
   float: left;
 }
 #main-content {
